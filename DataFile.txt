@@ -1,0 +1,6 @@
+3
+abc 10!
+Stay Frosty
+Bananas
+FEOF
+EOF
